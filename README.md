@@ -14,10 +14,16 @@ torchvision==0.12.0+cu113
 ### Code Running:
 
 
-To run the command for image datasets, i.e., miniImageNet and FC100:  
+To run the command for image datasets, i.e., 'miniImageNet' and 'FC100':  
 ```
-python main_image.py --dataset dataset_name`
+python main_image.py --dataset dataset_name
 ```
+
+To run the command for text datasets, i.e., '20newsgroup' and 'huffpost':  
+```
+python main_image.py --dataset dataset_name
+```
+
 ### Citation
 Welcome to cite our work! </br>
 
