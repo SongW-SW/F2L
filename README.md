@@ -15,16 +15,16 @@ torchvision==0.12.0+cu113
 
 
 To run the command for image datasets, i.e., miniImageNet and FC100:  
-> python main_image.py --dataset dataset_name
+`python main_image.py --dataset dataset_name`
 
 
 ### Citation
 Welcome to cite our work! </br>
-```
-@inproceedings{wang2022faith,  
+
+> @inproceedings{wang2022faith,  
   title={Federated Few-shot Learning},  
   author={Wang, Song and Fu, Xingbo and Ding, Kaize and Chen, Chen and Chen, Huiyuan and Li, Jundong},  
   booktitle={SIGKDD},  
   year={2023}  
 }
-```
+
