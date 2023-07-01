@@ -1,7 +1,7 @@
 # F2L
 Thank you for your interest in our work! </br>
 
-This is the code for the paper <span style="color: blue;"> *Federated Few-shot Learning* </span>, published in SIGKDD 2023.
+This is the code for the paper *Federated Few-shot Learning*, published in SIGKDD 2023.
 
 
 ### Requirement:
