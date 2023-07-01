@@ -13,7 +13,7 @@ torchvision==0.12.0+cu113
 
 ### Code Running:
 
-
+Replace the 'dataset_name' with a specific dataset name.  
 To run the command for image datasets, i.e., 'miniImageNet' and 'FC100':  
 ```
 python main_image.py --dataset dataset_name
