@@ -14,8 +14,8 @@ torchvision==0.12.0+cu113
 ### Code Running:
 
 
-Then run the command:
-`python train.py`
+To run the command for image datasets, i.e., miniImageNet and FC100:
+`python main_image.py --dataset dataset_name`
 
 
 
