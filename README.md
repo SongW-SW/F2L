@@ -21,7 +21,7 @@ python main_image.py --dataset dataset_name
 
 To run the command for text datasets, i.e., '20newsgroup' and 'huffpost':  
 ```
-python main_image.py --dataset dataset_name
+python main_text.py --dataset dataset_name
 ```
 
 ### Citation
