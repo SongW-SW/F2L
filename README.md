@@ -3,7 +3,7 @@ Thank you for your interest in our work! </br>
 
 This is the code for the paper *Federated Few-shot Learning*, published in SIGKDD 2023.
 
-![Alt text](./model.pdf)
+![Alt text](./model_fed.png)
 
 ### Requirement:
 ```
