@@ -1,10 +1,31 @@
-# F2L
+# FAITH
+Thank you for your interest in our work! </br>
 
-This is the code for the paper "Federated Few-shot Learning", in SIGKDD 2023. 
+This is the code for the paper FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs.
 
-To run the code, first adjust the "dataset" arg in main.py to choose the dataset to perform classification tasks on.
+
+### Requirement:
+```
+torch==1.11.0+cu113
+torchvision==0.12.0+cu113  
+```
+
+
+### Code Running:
+
 
 Then run the command:
+`python train.py`
 
-> python main.py
 
+
+### Citation
+Welcome to cite our work! </br>
+```
+@inproceedings{wang2022faith,  
+  title={Federated Few-shot Learning},  
+  author={Wang, Song and Fu, Xingbo and Ding, Kaize and Chen, Chen and Chen, Huiyuan and Li, Jundong},  
+  booktitle={SIGKDD},  
+  year={2023}  
+}
+```
