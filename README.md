@@ -25,7 +25,7 @@ To run the command for text datasets, i.e., '20newsgroup' and 'huffpost':
 ```
 python main_text.py --dataset dataset_name
 ```
-Note that the text model requires the GLoVE embedding file named 'glove.42B.300d.zip', which should be put in the main folder. The download link is [here](https://huggingface.co/stanfordnlp/glove/resolve/main/glove.42B.300d.zip).
+Note that the text model requires the GloVe embedding file named 'glove.42B.300d.zip', which should be put in the main folder. The download link is [here](https://huggingface.co/stanfordnlp/glove/resolve/main/glove.42B.300d.zip).
 
 ### Citation
 Welcome to cite our work! </br>
