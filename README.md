@@ -5,14 +5,14 @@ This is the code for the paper *Federated Few-shot Learning*, published in SIGKD
   
 ![Alt text](./model_fed.png)
 
-### Requirement:
+## Requirement:
 ```
 torch==1.11.0+cu113
 torchvision==0.12.0+cu113  
 ```
 
 
-### Code Running:
+## Code Running:
 
 Replace the 'dataset_name' with a specific dataset name. 
 
@@ -27,7 +27,7 @@ python main_text.py --dataset dataset_name
 ```
 Note that the text model requires the GloVe embedding file named 'glove.42B.300d.zip', which should be put in the main folder. The download link is [here](https://huggingface.co/stanfordnlp/glove/resolve/main/glove.42B.300d.zip).
 
-### Citation
+## Citation
 Welcome to cite our work! </br>
 
 > @inproceedings{wang2022faith,  
