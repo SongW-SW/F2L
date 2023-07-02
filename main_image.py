@@ -115,7 +115,7 @@ def InforNCE_Loss(anchor, sample, tau, all_negative=False, temperature_matrix=No
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--model', type=str, default='resnet12', help='neural network used in training')
-    parser.add_argument('--dataset', type=str, default='20newsgroup', help='dataset used for training')
+    parser.add_argument('--dataset', type=str, default='FC100', help='dataset used for training')
     parser.add_argument('--net_config', type=lambda x: list(map(int, x.split(', '))))
     parser.add_argument('--partition', type=str, default='noniid', help='the data partitioning strategy')
     parser.add_argument('--lr', type=float, default=0.001, help='learning rate (default: 0.01, 0.0005, 0.005)')
