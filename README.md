@@ -14,7 +14,7 @@ torchvision==0.12.0+cu113
 
 ## Code Running:
 
-First download the data file from [here](https://drive.google.com/file/d/1us-iQiY9YSDE9SOX9YohGmnbAyOghqMr/view?usp=sharing) and unzip it into a folder named 'data'.  
+First download the data file from [here](https://drive.google.com/file/d/1us-iQiY9YSDE9SOX9YohGmnbAyOghqMr/view?usp=sharing) and unzip it into the folder 'data'.  
 
 To run the command for image datasets, i.e., 'miniImageNet' and 'FC100':  
 ```
