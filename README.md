@@ -30,7 +30,7 @@ Note that the text model requires the GloVe embedding file named 'glove.42B.300d
 ## Citation
 Welcome to cite our work! </br>
 
-> @inproceedings{wang2022faith,  
+> @inproceedings{wang2022federated,  
   title={Federated Few-shot Learning},  
   author={Wang, Song and Fu, Xingbo and Ding, Kaize and Chen, Chen and Chen, Huiyuan and Li, Jundong},  
   booktitle={SIGKDD},  
